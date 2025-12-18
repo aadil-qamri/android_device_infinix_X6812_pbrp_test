@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/infinix/Infinix-X6812/device.mk)
 
 PRODUCT_DEVICE := Infinix-X6812
-PRODUCT_NAME := omni_Infinix-X6812
+PRODUCT_NAME := pb_X6812
 PRODUCT_BRAND := Infinix
 PRODUCT_MODEL := Infinix X6812
 PRODUCT_MANUFACTURER := infinix
